@@ -1,0 +1,16 @@
+{
+    "critiques": {
+        "681": {
+            "rubric_items": {
+                "5519": {
+                    "result": "passed",
+                    "observation": "```\n\n************************************************************************\n                          Test Result Summary                           \n************************************************************************\n\nAirCargoProblem implements the ignore preconditions heuristic:         .\nAction levels have the correct number of actions:                      .\nLiteral levels have the correct number of literals:                    .\ncompeting_needs_mutex behaves correctly:                               .\ninconsistent_effects_mutex behaves correctly:                          .\ninconsistent_support_mutex behaves correctly:                          .\ninterference_mutex behaves correctly:                                  .\nnegation_mutex behaves correctly:                                      .\nSerialization of mutexes is correct:                                   .\nlevelsum heuristic behaves correctly:                                  .\n\n------------------------------------------------------------------------\n            . - Test Passed    F - Test Failed    E - Error             \n\n\n```"
+                },
+                "5516": {
+                    "result": "passed",
+                    "observation": "```\n\n************************************************************************\n                          Test Result Summary                           \n************************************************************************\n\nair_cargo_p1 returns the correct initial fluents:                      .\nair_cargo_p1 returns the correct goal fluents:                         .\nair_cargo_p1 returns an object of type problem:                        .\nair_cargo_p1 returns the correct initial values:                       .\nair_cargo_p2 returns the correct initial fluents:                      .\nair_cargo_p2 returns the correct goal fluents:                         .\nair_cargo_p2 returns an object of type problem:                        .\nair_cargo_p2 returns the correct initial values:                       .\nair_cargo_p3 returns the correct initial fluents:                      .\nair_cargo_p3 returns the correct goal fluents:                         .\nair_cargo_p3 returns an object of type problem:                        .\nair_cargo_p3 returns the correct initial values:                       .\nAirCargoProblem correctly lists possible actions in a given state:     .\nAirCargoProblem correctly constructs all possible actions:             .\nAirCargoProblem correctly updates state for a given action:            .\nAirCargoProblem yields a correct solution when input to breadth_first: .\n\n------------------------------------------------------------------------\n            . - Test Passed    F - Test Failed    E - Error             \n\n\n```"
+                }
+            }
+        }
+    }
+}
