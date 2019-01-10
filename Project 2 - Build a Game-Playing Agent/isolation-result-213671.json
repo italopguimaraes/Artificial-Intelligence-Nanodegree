@@ -1,0 +1,16 @@
+{
+    "critiques": {
+        "680": {
+            "rubric_items": {
+                "7303": {
+                    "observation": "```\n\n************************************************************************\n                          Test Result Summary                           \n************************************************************************\n\n14. Submission includes heuristic_analysis.pdf:                        .\n15. Submission includes research_review.pdf:                           .\n\n------------------------------------------------------------------------\n            . - Test Passed    F - Test Failed    E - Error             \n\n\n```",
+                    "result": "passed"
+                },
+                "5510": {
+                    "observation": "```\n\n************************************************************************\n                          Test Result Summary                           \n************************************************************************\n\n1. Test output interface of MinimaxPlayer.minimax():                   .\n2. Test functionality of MinimaxPlayer.minimax():                      .\n3. Test that minimax() raises SearchTimeout when the timer expires:    .\n4. Test that MinimaxPlayer successfully plays a full game:             .\n5. Test interface of AlphaBetaPlayer.alphabeta():                      .\n6. Test the interface of AlphaBetaPlayer.get_move():                   .\n7. Test functionality of AlphaBetaPlayer.alphabeta():                  .\n8. Test that alphabeta() raises SearchTimeout when the timer expires:  .\n9. Test iterative deepening in AlphaBetaPlayer.get_move():             .\n10. Test that AlphaBetaPlayer successfully plays a full game:          .\n11. Test output interface of custom_score():                           .\n12. Test output interface of custom_score_2():                         .\n13. Test output interface of custom_score_3():                         .\n\n------------------------------------------------------------------------\n            . - Test Passed    F - Test Failed    E - Error             \n\n\n```",
+                    "result": "passed"
+                }
+            }
+        }
+    }
+}
