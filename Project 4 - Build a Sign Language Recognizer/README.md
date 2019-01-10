@@ -9,8 +9,7 @@ This project requires
 
 - [NumPy](http://www.numpy.org/)
 - [SciPy](https://www.scipy.org/)
-- [scikit-learn]
-(http://scikit-learn.org/0.17/install.html)
+- [scikit-learn](http://scikit-learn.org/0.17/install.html)
 - [pandas](http://pandas.pydata.org/)
 - [matplotlib](http://matplotlib.org/)
 - [jupyter](http://ipython.org/notebook.html)
