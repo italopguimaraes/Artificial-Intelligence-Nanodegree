@@ -50,8 +50,7 @@ the database [boston104.handpositions.rybach-forster-dreuw-2009-09-25.full.xml](
 *   0  speaker's left hand
 *   1  speaker's right hand
 *   2  speaker's nose
-*  
- X and Y values of the video frame increase left to right and top to bottom.
+*   X and Y values of the video frame increase left to right and top to bottom.
 
 Take a look at the sample 
 [ASL recognizer video](http://www-i6.informatik.rwth-aachen.de/~dreuw/download/021.avi)
