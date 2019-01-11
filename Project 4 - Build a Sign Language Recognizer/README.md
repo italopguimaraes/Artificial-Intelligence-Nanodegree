@@ -27,32 +27,25 @@ pip install git+https://github.com/hmmlearn/hmmlearn.git
 
 ### Code
 
-A template notebook is provided as `asl_recognizer.
-ipynb`. The notebook is a combination tutorial and submission document.  Some of the codebase and some of your implementation will be external to the notebook. 
-For submission, complete the **Submission** sections of each part.  This will include running your implementations in code notebook cells, answering analysis 
-questions, and passing provided unit tests provided in the codebase and called out in the notebook. 
+A template notebook is provided as `asl_recognizer.ipynb`. The notebook is a combination tutorial and submission document.  Some of the codebase and some of your implementation will be external to the notebook. 
+For submission, complete the **Submission** sections of each part.  This will include running your implementations in code notebook cells, answering analysis questions, and passing provided unit tests provided in the codebase and called out in the notebook. 
 
 ### Run
 
-In a terminal or command window, navigate to the top-level 
-project directory `AIND_recognizer/` (that contains this README) and run one of the following command:
+In a terminal or command window, navigate to the top-level project directory `AIND_recognizer/` (that contains this README) and run one of the following command:
 
 `jupyter notebook asl_recognizer.ipynb`
 
-This will open the 
-Jupyter Notebook software and notebook in your browser which is where you will directly edit and run your code. Follow the instructions in the notebook for completing
- the project.
+This will open the Jupyter Notebook software and notebook in your browser which is where you will directly edit and run your code. Follow the instructions in the notebook for completing the project.
 
 
 ### Additional Information
 ##### Provided Raw Data
 
 The data in the `asl_recognizer/data/` directory was derived from 
-the [RWTH-BOSTON-104 Database]
-(http://www-i6.informatik.rwth-aachen.de/~dreuw/database-rwth-boston-104.php). 
+the [RWTH-BOSTON-104 Database](http://www-i6.informatik.rwth-aachen.de/~dreuw/database-rwth-boston-104.php). 
 The handpositions (`hand_condensed.csv`) are pulled directly from 
-the database
- [boston104.handpositions.rybach-forster-dreuw-2009-09-25.full.xml](boston104.handpositions.rybach-forster-dreuw-2009-09-25.full.xml). The three markers are:
+the database [boston104.handpositions.rybach-forster-dreuw-2009-09-25.full.xml](boston104.handpositions.rybach-forster-dreuw-2009-09-25.full.xml). The three markers are:
 
 *   
 0  speaker's left hand
