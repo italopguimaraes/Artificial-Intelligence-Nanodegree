@@ -13,8 +13,7 @@ This project requires
 - [pandas](http://pandas.pydata.org/)
 - [matplotlib](http://matplotlib.org/)
 - [jupyter](http://ipython.org/notebook.html)
-- 
-[hmmlearn](http://hmmlearn.readthedocs.io/en/latest/)
+- [hmmlearn](http://hmmlearn.readthedocs.io/en/latest/)
 
 Notes: 
 1. It is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of 
