@@ -32,7 +32,7 @@ For submission, complete the **Submission** sections of each part.  This will in
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `AIND_recognizer/` (that contains this README) and run one of the following command:
+In a terminal or command window, navigate to the top-level project directory `Project 4 - Build a Sign Language Recognizer/` (that contains this README) and run one of the following command:
 
 `jupyter notebook asl_recognizer.ipynb`
 
