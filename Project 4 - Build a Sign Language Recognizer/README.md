@@ -47,8 +47,7 @@ the [RWTH-BOSTON-104 Database](http://www-i6.informatik.rwth-aachen.de/~dreuw/da
 The handpositions (`hand_condensed.csv`) are pulled directly from 
 the database [boston104.handpositions.rybach-forster-dreuw-2009-09-25.full.xml](boston104.handpositions.rybach-forster-dreuw-2009-09-25.full.xml). The three markers are:
 
-*   
-0  speaker's left hand
+*   0  speaker's left hand
 *   1  speaker's right hand
 *   2  speaker's nose
 *  
@@ -61,8 +60,7 @@ to see how the hand locations are tracked.
 
 The videos are sentences with translations provided in the database.  
 For purposes of this project, the sentences have been pre-segmented 
-into words 
-based on slow motion examination of the files.  
+into words based on slow motion examination of the files.  
 These segments are provided in the `train_words.csv` and `test_words.csv` files
 in the 
 form of start and end frames (inclusive).
