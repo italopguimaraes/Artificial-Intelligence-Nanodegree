@@ -42,7 +42,7 @@ This will open the Jupyter Notebook software and notebook in your browser which 
 ### Additional Information
 ##### Provided Raw Data
 
-The data in the `asl_recognizer/data/` directory was derived from 
+The data in the `Project 4 - Build a Sign Language Recognizer/data/` directory was derived from 
 the [RWTH-BOSTON-104 Database](http://www-i6.informatik.rwth-aachen.de/~dreuw/database-rwth-boston-104.php). 
 The handpositions (`hand_condensed.csv`) are pulled directly from 
 the database [boston104.handpositions.rybach-forster-dreuw-2009-09-25.full.xml](boston104.handpositions.rybach-forster-dreuw-2009-09-25.full.xml). The three markers are:
